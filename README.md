@@ -1,2 +1,2 @@
 # PFE-Code-Backup
-Repository (backup) for storing PFE lab + lecture programs
+Repository (backup) for storing PFE (Python for Engineers) lab + lecture programs
